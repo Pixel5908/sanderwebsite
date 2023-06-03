@@ -1,0 +1,11 @@
+#menu a {
+    border: outset blue 10px;
+    background-color: blue;
+    padding: 5px;
+    color: red;
+}
+
+#menu a:hover {
+    border: inset blue 5px;
+    margin: 5px;
+}
